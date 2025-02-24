@@ -31,7 +31,25 @@ IP (Internet Protocol) addressing is a fundamental aspect of networking and is c
 3. Enables isolation, segmentation, and security.
 
 ## Network Security Group
+
+1. NSGs act as a firewall, controlling inbound and outbound traffic.
+2. You define rules to allow or deny traffic based on IP, port, and protocol.
+
 ## Subneting & Configure Server
+
+1. Subnetting divides a VNET into smaller logical networks.
+2. Each subnet can have different access control policies.
+3. VMs, databases, and app services can be placed in separate subnets.
+
 ## Load Balancer
+
+1. Azure Load Balancer distributes incoming traffic across multiple VMs.
+2. Helps in scalability and high availability.
+
+### Types:
+
+1. Internal Load Balancer
+2. External Load Balancer
+
 ## Set-up Alert Rule
 ## VPN(Virtual Private Network)
