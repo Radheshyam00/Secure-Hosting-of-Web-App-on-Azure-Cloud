@@ -59,8 +59,9 @@ Azure Load Balancer distributes incoming traffic across multiple VMs.Helps in sc
 #### 1. Azure VPN Gateway allows secure connectivity between:
 1. On-premises networks 🌍 ↔ Azure Cloud ☁️
 2. Different Azure regions
-#### 2. Uses IPsec/IKE encryption.
-#### 3. Types of VPN:
+#### 2. Types of VPN:
 1. Site-to-Site (S2S)
 2. Point-to-Site (P2S)
+#### 3. Uses IPsec/IKE encryption.
+
 
