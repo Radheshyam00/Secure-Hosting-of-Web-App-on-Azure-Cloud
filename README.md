@@ -47,10 +47,16 @@ IP (Internet Protocol) addressing is a fundamental aspect of networking and is c
 1. Internal Load Balancer
 2. External Load Balancer
 
-Azure Load Balancer distributes incoming traffic across multiple VMs.
-Helps in scalability and high availability.
-
-
+Azure Load Balancer distributes incoming traffic across multiple VMs.Helps in scalability and high availability.
 
 ## Set-up Alert Rule
+
+1. Azure Monitor can trigger alerts based on conditions (CPU usage, memory, etc.).
+2. Helps in proactive performance monitoring and security.
+
 ## VPN(Virtual Private Network)
+
+#### 1. Azure VPN Gateway allows secure connectivity between:
+1. On-premises networks 🌍 ↔ Azure Cloud ☁️
+2. Different Azure regions
+#### 2. Uses IPsec/IKE encryption.
