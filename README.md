@@ -17,7 +17,7 @@ Implement Hub and Spoke topology where Hub contains the centralized components l
 ### Discuss about OSI Model:
 The Seven Layers of the OSI Model.
 
-
+![OSI Model layer](https://github.com/user-attachments/assets/4c44d509-3841-4410-9f48-30f69476c1c0)
 
 ## Week 2 Assignment - IP Addressing
 IP (Internet Protocol) addressing is a fundamental aspect of networking and is crucial for the identification and communication between devices on a network. 
