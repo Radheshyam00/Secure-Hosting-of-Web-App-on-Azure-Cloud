@@ -42,14 +42,15 @@ IP (Internet Protocol) addressing is a fundamental aspect of networking and is c
 3. VMs, databases, and app services can be placed in separate subnets.
 
 ## Load Balancer
-
-1. Azure Load Balancer distributes incoming traffic across multiple VMs.
-2. Helps in scalability and high availability.
-
 ### Types:
 
 1. Internal Load Balancer
 2. External Load Balancer
+
+Azure Load Balancer distributes incoming traffic across multiple VMs.
+Helps in scalability and high availability.
+
+
 
 ## Set-up Alert Rule
 ## VPN(Virtual Private Network)
