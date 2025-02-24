@@ -23,3 +23,10 @@ The Seven Layers of the OSI Model.
 IP (Internet Protocol) addressing is a fundamental aspect of networking and is crucial for the identification and communication between devices on a network. 
 
 ![Olaf_Fig-1](https://github.com/user-attachments/assets/e98e46bb-bd29-43ee-995c-35b3c192bbaf)
+
+## VNET(Virtual Network)
+## Network Security Group
+## Subneting & Configure Server
+## Load Balancer
+## Set-up Alert Rule
+## VPN(Virtual Private Network)
