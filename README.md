@@ -17,9 +17,9 @@ Implement Hub and Spoke topology where Hub contains the centralized components l
 ### Discuss about OSI Model:
 The Seven Layers of the OSI Model.
 
-![OSI Model layer](https://github.com/Radheshyam00/Secure-Hosting-of-Web-App-on-Azure-Cloud/assets/124763735/0a56f6fa-6d2b-45dd-9c9c-6d2934187a0e)
+![OSI Model layer](https://github.com/user-attachments/assets/06905504-00f1-439d-a3b8-bc810bdb316c)
 
 ## Week 2 Assignment - IP Addressing
 IP (Internet Protocol) addressing is a fundamental aspect of networking and is crucial for the identification and communication between devices on a network. 
-![image](https://github.com/Radheshyam00/Secure-Hosting-of-Web-App-on-Azure-Cloud/assets/124763735/df1c4247-1198-4bf6-9156-c0b18efc3970)
 
+![Olaf_Fig-1](https://github.com/user-attachments/assets/e98e46bb-bd29-43ee-995c-35b3c192bbaf)
