@@ -25,6 +25,11 @@ IP (Internet Protocol) addressing is a fundamental aspect of networking and is c
 ![Olaf_Fig-1](https://github.com/user-attachments/assets/e98e46bb-bd29-43ee-995c-35b3c192bbaf)
 
 ## VNET(Virtual Network)
+
+1. A VNET in Azure is similar to a traditional on-premises network.
+2. It allows secure communication between Azure resources (VMs, databases, containers, etc.).
+3. Enables isolation, segmentation, and security.
+
 ## Network Security Group
 ## Subneting & Configure Server
 ## Load Balancer
