@@ -42,12 +42,11 @@ IP (Internet Protocol) addressing is a fundamental aspect of networking and is c
 3. VMs, databases, and app services can be placed in separate subnets.
 
 ## Load Balancer
-### Types:
-
-1. Internal Load Balancer
-2. External Load Balancer
 
 Azure Load Balancer distributes incoming traffic across multiple VMs.Helps in scalability and high availability.
+#### Types:
+- Internal Load Balancer
+- External Load Balancer
 
 ## Set-up Alert Rule
 
@@ -57,11 +56,11 @@ Azure Load Balancer distributes incoming traffic across multiple VMs.Helps in sc
 ## VPN(Virtual Private Network)
 
 #### 1. Azure VPN Gateway allows secure connectivity between:
-1. On-premises networks 🌍 ↔ Azure Cloud ☁️
-2. Different Azure regions
+- On-premises networks 🌍 ↔ Azure Cloud ☁️
+- Different Azure regions
 #### 2. Types of VPN:
-1. Site-to-Site (S2S)
-2. Point-to-Site (P2S)
+- Site-to-Site (S2S)
+- Point-to-Site (P2S)
 #### 3. Uses IPsec/IKE encryption.
 
 
